@@ -38,5 +38,5 @@ npm run dev
 Las pruebas se pueden realizar en un Client Rest como Postman pero en este caso se prueba con la extensión de Visual Code REST Client, ejecutandolo desde el archivos `api.rest`.
 
 ### Guia
-Proyecto generado del tutorial (Tu primer REST API usando Node.js, ¿Que es una REST API?)  [Enlace](https://www.youtube.com/watch?v=bK3AJfs7qNY&ab_channel=FaztCode).
+Proyecto generado del tutorial (Tu primer REST API usando Node.js, ¿Que es una REST API?)  [Enlace](https://www.youtube.com/watch?v=KAzof5OqoPw&t=110s&ab_channel=FaztCode).
 
